@@ -1,2 +1,2 @@
-# bino-shop
-https://volodin32104.github.io/bino-shop/
+# fashion-shop
+https://volodin32104.github.io/fashion-shop/
